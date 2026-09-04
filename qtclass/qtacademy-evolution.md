@@ -1,8 +1,4 @@
-# 实训基地的演化（qtacademy evolution）
-
-> 本文原为 insight（2026-09-04 撰写），后转移至 history——演化过程已成为历史事实，规律层提炼保留在 [industry-education-integration](../../../insight/qtclass/industry-education-integration.md)。
-
-来源：journal qtclass/ 2026-08-26 ~ 09-04 结构化提炼（实录见 journal）
+# 量潮实训基地的演化
 
 六天时间，实训基地从「公司的招聘群」演化成「有自己政府的独立主体」。这篇梳理演化的阶段、每一步的动力、以及演化方向。
 
@@ -41,7 +37,7 @@
 - 秘书自主行动：新人地图方案 → 当天改群公告 → 24 小时内产生众包第一单——授权后无需推动
 - 代表评审双样本：9-03「通过」、9-04 第一次「退回修改」——治理长出牙齿，章程从文档变成法律
 - 治理下放三大步：结项初审授权（议事范围扩大化）、证明签发下放、规则生成权（「你们自己定」）
-- **审批序列反转**：Demo 先向代表大会提交、再给公司——从「公司的机制」变成「独立主体」（详见 [industry-education-integration](../../../insight/qtclass/industry-education-integration.md)）
+- **审批序列反转**：Demo 先向代表大会提交、再给公司——从「公司的机制」变成「独立主体」
 
 ## 演化的动力机制
 

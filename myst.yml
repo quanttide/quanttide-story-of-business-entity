@@ -11,8 +11,8 @@ project:
         - file: intro/from-lab-to-company.md
     - title: 量潮课堂
       children:
-        - file: qtclass/vibe_coding.md
-        - file: qtclass/history.md
+        - file: qtclass/index.md
+        - file: qtclass/qtacademy-evolution.md
     - title: 量潮数据
       children:
         - file: qtdata/history.md
